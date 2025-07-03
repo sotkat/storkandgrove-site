@@ -27,11 +27,6 @@ Stork & Grove specializes in beautifully curated spaces, made well. This website
 2. Open `index.html` in your browser
 3. For deployment, connect to Vercel for automatic builds
 
-## Contact
-
-- Email: design@storkandgrove.co.uk
-- Instagram: [@storkgrove](https://instagram.com/storkgrove)
-
 ## License
 
 © 2025 Stork & Grove 
